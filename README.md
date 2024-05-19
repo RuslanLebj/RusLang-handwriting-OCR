@@ -2,7 +2,7 @@
 
 SHIFT OCR is a library for handwriting text segmentation and character recognition.
  
-# Get Started
+# Get Started (Python 3.9, Python 3.10)
 
 ## Doc2Text
 `Reader` from `doc2text` performs text detection and the following recognition.
