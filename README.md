@@ -1,6 +1,6 @@
 # RusLang HandWriting OCR
 
-SHIFT OCR is a library for handwriting text segmentation and character recognition.
+This is a project library for russian handwriting text segmentation and character recognition.
  
 # Get Started (Python 3.9, Python 3.10)
 
